@@ -1,0 +1,25 @@
+#app .playlist-track {
+	display: flex;
+	position: relative;
+	color:black;
+}
+
+#app .playlist-content {
+	width: 80%;
+	color: black;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#app .playlist-close {
+	position: absolute;
+	top: 10px;
+	right: 10px;
+
+	color:red;
+}
+body{
+	background-image: url(https://s-media-cache-ak0.pinimg.com/564x/a1/39/62/a1396253c726f300d9ca31dfa76f9d06.jpg)
+}
